@@ -17,11 +17,19 @@
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  font-family: Arial, sans-serif;
+  background-image: url(https://media2.giphy.com/media/pFwRzOLfuGHok/200w.gif?cid=82a1493bmk4cfqrac00k7sf6je7qctjvpvc89dwpel74qmj6&ep=v1_gifs_related&rid=200w.gif&ct=g);
+  margin: 0;
+  padding: 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h2{
+  color: white;
+}
+button {
+  color: white;
+}
+ul {
+  color: white;
 }
